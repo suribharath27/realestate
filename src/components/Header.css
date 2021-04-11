@@ -1,0 +1,37 @@
+.header {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  margin-top: 50px;
+  z-index: 2;
+}
+p {
+  opacity: 0.8;
+  /* padding-left: 50px; */
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 34px;
+  color: rgba(17, 40, 132, 1);
+}
+h5{
+  color: rgba(17, 40, 132, 1);
+}
+img {
+  /* width: 46.88px;
+  height: 46.88px; */
+  /* padding-right: 50px; */
+  /* border-radius: 50%; */
+  /* margin-right: 40px; */
+}
+.logo_name {
+  font-size: 48px;
+  /* margin-top: 32px; */
+  font-weight: 700;
+
+  color: rgba(52, 84, 209, 1);
+  text-transform: capitalize;
+}
+
+.img10 {
+  margin-left: 20px;
+}

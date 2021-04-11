@@ -1,0 +1,44 @@
+.imge {
+  width: 100% !important;
+  height: 784.4px;
+  flex-grow: 0;
+  object-fit: contain;
+
+  margin-top: 60px;
+}
+h2 {
+  flex-grow: 0;
+  margin-top: 200px;
+  font-family: TTNorms;
+  font-size: 64px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.16;
+  letter-spacing: normal;
+  text-align: left;
+  color: #112884;
+}
+.para {
+  flex-grow: 0;
+  margin: 56.6px 0 56.6px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.89;
+  letter-spacing: normal;
+  text-align: left;
+  color: #112884;
+}
+.btn {
+  width: 209.2px;
+  height: 70px;
+  flex-grow: 0;
+  margin: 56.6px 406.8px 0 0;
+  padding: 18px 39.1px 18px 39.1px;
+  border-radius: 35px;
+  color: White;
+  background-color: #3454d1;
+}

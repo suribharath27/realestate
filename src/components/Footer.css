@@ -1,0 +1,51 @@
+.footer-logo{
+position: relative;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+margin-top: -20px;
+line-height: 71px;
+color: #6B89FF;
+padding-right: 100px;
+
+}
+.main-footer{
+    color: #ffffff;
+    background-color: #282F49;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+   margin-top: 20%;
+   padding-top: 129px;
+}
+li{
+    opacity: 0.6;
+    padding: 5px;
+    font-style: normal;
+}
+.icons > a{
+    position: relative;
+    padding: 10px;
+}
+hr{
+    background-color: #ffffff;
+    opacity: 0.2;
+}
+p{
+    color: #ffffff;
+    padding-left: 50px;
+    /* opacity: 0.6; */
+    font-weight: 500;
+   font-size: 18px;
+}
+.p1{
+    color: #6B89FF;
+    opacity: 1;
+}
+.copyright{
+    padding-left: 20%;
+}
+.copyright > span{
+    color: #6B89FF;
+    opacity: 1;
+}

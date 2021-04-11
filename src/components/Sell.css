@@ -1,0 +1,69 @@
+.head {
+  font-family: TTNorms;
+  font-size: 64px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.16;
+  letter-spacing: normal;
+  text-align: left;
+  color: #112884;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.head3 {
+  margin-top: 60px;
+  flex-grow: 0;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.7;
+  letter-spacing: normal;
+  text-align: right;
+  color: #112884;
+  margin-bottom: 40px;
+}
+.images {
+  width: 100% !important;
+  height: 534.7px;
+  flex-grow: 0;
+  object-fit: cover;
+}
+.card {
+  width: 90% !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  padding-bottom: 20px;
+}
+.head11 {
+  flex-grow: 0;
+  font-family: TTNorms;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #112884;
+  margin: 10px;
+}
+.span {
+  font-family: TTNorms;
+  font-size: 24px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #112884;
+  padding: 8px 10px;
+}
+.img2 {
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+  padding: 8px 0px;
+}
